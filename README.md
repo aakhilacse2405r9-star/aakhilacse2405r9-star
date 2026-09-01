@@ -8,5 +8,4 @@
 
 🌱 Learning and improving my technical skills every day.
 
-
-https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=c%20language&logoColor=sky%20blue&label=c%20language&labelColor=white&color=blue
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
